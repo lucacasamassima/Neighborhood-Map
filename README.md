@@ -1,6 +1,4 @@
-# README - Project 8 for Udacity Front End Nanodegree
-
-**Creator**: Michele "*Dev_Mikko*" De Palma
+# Neighborhood Map Project
 
 **What is that?**
 
@@ -64,9 +62,7 @@ npm run build
 
 **Credits**:
 
-- Michele "*Dev_Mikko*" De Palma
+- Luca Casamassima
 - Udacity for the Nanodegree's lessons 
 - NodeJS
 - Google & Foursquare for the APIs
-- Facebook for ReactJS
-- All creators of implemented components (prop-types, sort-by, escape-string-regexp, Material-UI React, google-maps-react)
